@@ -1,0 +1,12 @@
+# Ignore development files and directories
+.vscode
+__pycache__
+*.pyc
+
+# Ignore virtual environment
+venv
+env
+
+# Docker
+Dockerfile
+docker-compose.yml
